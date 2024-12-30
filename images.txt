@@ -9,3 +9,5 @@ jyhking/onecloud:1.1
 --platform=linux/arm/v7 6053537/portainer-ce
 --platform=linux/arm/v7 wangbinxingkong/fast
 --platform=linux/arm/v7 jyhking/onecloud:1.1
+biarms/mysql:5.7.33-beta-circleci
+imzcc/openresty:1.21.4.1-7-alpine
